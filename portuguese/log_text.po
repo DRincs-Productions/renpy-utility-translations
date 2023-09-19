@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ABFD\n"
+"X-Crowdin-Project-ID: 425920\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[BlackRam-oss.renpy-utility-translations] main/crowdin/log_text.po\n"
+"X-Crowdin-File-ID: 7561\n"
+"Project-Id-Version: ABFD\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2023-09-19 13:02\n"
+
+# TODO: Translation updated at 2023-09-17 13:43 #|#|# # §translate crowdin strings: #|#|# # game/renpy_utility_tool/log_text.rpy:3
+msgid "There is an {color=#f00}{b}ERROR{/b}{/color}. Please send the developer the logs found in: {color=#00ccff}[config.log]{/color}"
+msgstr ""
+
+# game/renpy_utility_tool/log_text.rpy:5
+msgid "There is an {color=#f5bc02}{b}WARN{/b}{/color}. Please send the developer the logs found in: {color=#00ccff}[config.log]{/color}"
+msgstr ""
+
